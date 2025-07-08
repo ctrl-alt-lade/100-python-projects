@@ -13,22 +13,22 @@ Today, I briefly covered concepts like:
   - Y loop
   - Forward Loop
 - Lists
-- FUnctions
+- Functions
 
 # Mini Project
 At the end of the crash course there was a mini game, a **Number Guessing Game**
 
 ### Sample Output
-Here is a simple output from the mini project
-*I'm thinking of a number between 1 and 10
-Take a Guess2
-Too low! Try again.
-Take a Guess5
-Congratulations! You guessed the number!*
+Here is a simple output from the mini project <br>
+*I'm thinking of a number between 1 and 10 <br>
+Take a Guess 2 <br>
+Too low! Try again. <br>
+Take a Guess 5 <br>
+Congratulations! You guessed the number!* <br>
 
-## Lesson from the project
+## Lessons from the project
 - I learned that libraries can be imported into projects
 - I learnt from a mistake I made where I turned a function into a variable unintentionally. This initially cause the program to return an error pointing to a line that was actually fine. After some de-bugging, I was able to get it running properly.
 - I learnt how to convert data received by the user into an integer variable directly instead of letting it stay as a string variable.
 - I learnt how to apply decisions
-- 
+
